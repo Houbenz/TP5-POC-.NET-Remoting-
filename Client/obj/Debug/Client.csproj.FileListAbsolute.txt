@@ -1,0 +1,7 @@
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\Client\bin\Debug\Client.pdb
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\Client\bin\Debug\ClassLibrary1.dll
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\Client\bin\Debug\ClassLibrary1.pdb
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\Client\obj\Debug\Client.pdb
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\Client\bin\Debug\Client.exe
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\Client\obj\Debug\Client.exe

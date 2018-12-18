@@ -1,0 +1,5 @@
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\ClassLibrary1\obj\Debug\Remote.csprojResolveAssemblyReference.cache
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

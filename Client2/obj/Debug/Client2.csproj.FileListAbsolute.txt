@@ -1,0 +1,7 @@
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\Client2\bin\Debug\Client2.exe.config
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\Client2\bin\Debug\Client2.exe
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\Client2\bin\Debug\Client2.pdb
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\Client2\bin\Debug\ClassLibrary1.dll
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\Client2\bin\Debug\ClassLibrary1.pdb
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\Client2\obj\Debug\Client2.exe
+C:\Users\Houbenz\Documents\Visual Studio 2015\Projects\Pile etudiant\Client2\obj\Debug\Client2.pdb
